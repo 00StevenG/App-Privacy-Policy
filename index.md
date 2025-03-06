@@ -3,6 +3,14 @@
 
 This Privacy Policy explains how we collect, use, and disclose your personal information when you use our mobile applications (the “Apps”). Please read this Privacy Policy carefully. By using our Apps, you agree to the terms outlined here.
 
+## Contact & Support
+
+If you need support, have questions, or experience issues with our Apps, please reach out to us:
+
+📧 **Email:** [support@bentoplay.com](mailto:support@bentoplay.com)  
+
+For privacy-related inquiries, please refer to the "Your Rights" section above.
+
 ## Data Collection
 
 ### How Do We Collect Data?
